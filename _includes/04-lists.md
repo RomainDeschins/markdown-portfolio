@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Guitars
+    * Telecaster
+    * Stratocaster
+    * Les Paul
+    * SG
+2. Amplifiers
+    - Marshall JCM 800
+    - Vox AC30
